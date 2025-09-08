@@ -23,15 +23,15 @@
 21:program to display the month name and number of days using switch-case for a given month number.                               (month.c)  
 22:program to find profit or loss percentage given cost price and selling price.                                                  (sales.c)  
 23: program to calculate library fine based on late days as follows:                                                              (library.c)
-           First 5 days late: ₹2/day <br>     
-           Next 5 days late: ₹4/day  
-           Next 20 days days late: ₹6/day <br>
-           More than 30 days: Membership Cancelled. 
+First 5 days late: ₹2/day <br>     
+Next 5 days late: ₹4/day  
+Next 20 days days late: ₹6/day <br>
+More than 30 days: Membership Cancelled. 
 24:program to calculate electricity bill based on units consumed with these rates:                                                (electricity.c) 
-            First 100 units at ₹5/unit 
-            Next 100 units at ₹7/unit<br>
-             Next 100 units at ₹10/unit
-             Above at ₹12/unit <br>
+ First 100 units at ₹5/unit 
+ Next 100 units at ₹7/unit<br>
+ Next 100 units at ₹10/unit
+Above at ₹12/unit <br>
 25:program to implement a basic calculator using switch-case for +, -, *, /, %.                                                    (calculator.c) 
 26:program to print numbers from 1 to n.                                                                                           (n_number.c) 
 27:program to print the sum of the first n odd numbers.                                                                            (n_odd.c) 
