@@ -1,10 +1,10 @@
 # 100_days_of-code
 100_days_of_code_ challenge                                                                                                        code file                           
-<br>1:program to input two numbers and display their sum.                                                                             (sum.c)     
+1:program to input two numbers and display their sum.                                                                             (sum.c)     
 <br>2:program to input two numbers and display their sum, difference, product, and quotient.                                          (arithmetic.c)   
-<br>3:program to calculate the area and perimeter of a rectangle given its length and breadth.                                        (rectangle.c)    
+3:program to calculate the area and perimeter of a rectangle given its length and breadth.                                        (rectangle.c)    
 <br>4:program to calculate the area and circumference of a circle given its radius.                                                   (circle.c) 
-<br>5:program to convert temperature from Celsius to Fahrenheit.                                                                      (temparature.c)  
+5:program to convert temperature from Celsius to Fahrenheit.                                                                      (temparature.c)  
 <br>6:program to swap two numbers using a third variable.                                                                             (swap.c)   
 <br>7:program to swap two numbers without using a third variable.                                                                     (swap2.c)
 <br>8:program to find and display the sum of the first n natural numbers.                                                             (summation.c)   
