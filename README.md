@@ -1,5 +1,6 @@
-#100_days_of_code
-<br>11:program to input an integer and check whether it is even or odd using if–else.                                                 (odd_even.c)   
+# 100_days_of-code
+100_days_of_code_ challenge                                                                                                                       
+11:program to input an integer and check whether it is even or odd using if–else.                                                     (odd_even.c)   
 12:program to input an integer and check whether it is positive, negative or zero using nested if–else.                               (sign.c)  
 13:program to input a year and check whether it is a leap year or not using conditional statements.                                   (leap_year.c)
 <br>14:program to input a character and check whether it is a vowel or consonant using if–else.                                       (alphabet.c)
