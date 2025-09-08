@@ -1,7 +1,9 @@
 # 100_days_of-code
 100_days_of_code_ challenge                                                                                                           code file                           
-1:program to input two numbers and display their sum.                                                                                  (sum.c)     
+1:program to input two numbers and display their sum.                                                                                  (sum.c)   
+<br>
 2:program to input two numbers and display their sum, difference, product, and quotient.                                              (arithmetic.c)   
+<br>
 3:program to calculate the area and perimeter of a rectangle given its length and breadth.                                            (rectangle.c)    
 4:program to calculate the area and circumference of a circle given its radius.                                                   (circle.c) 
 5:program to convert temperature from Celsius to Fahrenheit.                                                                          (temparature.c)  
@@ -37,4 +39,4 @@
 27:program to print the sum of the first n odd numbers.                                                                            (n_odd.c) 
 28:program to print the product of even numbers from 1 to n.                                                                       (n_even.c)  
 29:program to calculate the factorial of a number.                                                                                 (factorial.c) 
-<br>30:program to reverse a given number.                                                                                              (reverse.c) 
+30:program to reverse a given number.                                                                                              (reverse.c) 
