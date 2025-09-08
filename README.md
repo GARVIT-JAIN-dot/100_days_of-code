@@ -8,7 +8,6 @@
 5:program to convert temperature from Celsius to Fahrenheit.                                                                      (temparature.c)  
 6:program to swap two numbers using a third variable.                                                                             (swap.c)   
 7:program to swap two numbers without using a third variable.                                                                     (swap2.c)
-
 8:program to find and display the sum of the first n natural numbers.                                                             (summation.c)   
 9:program to calculate simple and compound interest for given principal, rate, and time.                                          (interest.c) 
 10: program to input time in seconds and convert it to hours:minutes:seconds format.                                              (time.c)
