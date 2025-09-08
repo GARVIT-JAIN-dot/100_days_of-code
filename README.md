@@ -1,7 +1,7 @@
 # 100_days_of-code
 100 days of code challenge in c 
                                                                                                                                   code file       <br>                        
-1:program to input two numbers and display their sum.                                                                             (sum.c)   <br>   
+1:program to input two numbers and display their sum.                                                                             (sum.c)     
 2:program to input two numbers and display their sum, difference, product, and quotient.                                          (arithmetic.c) <br>   
 3:program to calculate the area and perimeter of a rectangle given its length and breadth.                                        (rectangle.c) <br>   
 4:program to calculate the area and circumference of a circle given its radius.                                                   (circle.c) <br>   
