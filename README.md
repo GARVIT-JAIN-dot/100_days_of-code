@@ -6,7 +6,7 @@
 4:program to calculate the area and circumference of a circle given its radius.                                                   (circle.c)   <br>
 5:program to convert temperature from Celsius to Fahrenheit.                                                                      (temparature.c)  
 6:program to swap two numbers using a third variable.                                                                             (swap.c)    <br>
-7:program to swap two numbers without using a third variable.                                                                     (swap2.c)
+7:program to swap two numbers without using a third variable.                                                                     (swap2.c)<br>
 8:program to find and display the sum of the first n natural numbers.                                                             (summation.c) <br>  
 9:program to calculate simple and compound interest for given principal, rate, and time.                                          (interest.c) 
 10: program to input time in seconds and convert it to hours:minutes:seconds format.                                              (time.c)<br>
@@ -22,7 +22,7 @@
 20:program to display the day of the week based on a number (1–7) using switch-case.                                              (week.c) <br>
 21:program to display the month name and number of days using switch-case for a given month number.                               (month.c)  
 22:program to find profit or loss percentage given cost price and selling price.                                                  (sales.c)   <br>
-23: program to calculate library fine based on late days as follows:                                                              (library.c) 
+23: program to calculate library fine based on late days as follows:                                                              (library.c) <br>
              First 5 days late: ₹2/day <br>     
              Next 5 days late: ₹4/day  
              Next 20 days days late: ₹6/day <br>
