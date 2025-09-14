@@ -26,8 +26,9 @@ int main(){
    }else {
     printf("it is not armstrong number(%d)",a);
    }
-  
+       
     return 0;
 
 }
+
 
