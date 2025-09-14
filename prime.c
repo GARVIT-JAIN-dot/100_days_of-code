@@ -1,3 +1,5 @@
+//program to print all factors of a given number.
+
 #include<stdio.h>
 int main () {
     int n,a =1;
@@ -20,4 +22,5 @@ int main () {
         printf("%d is not a prime number",n);
     }
     return 0;
+
 }
