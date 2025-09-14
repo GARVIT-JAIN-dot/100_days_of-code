@@ -1,5 +1,5 @@
 //program to find the product of odd digits of a number.
-
+  
 #include<stdio.h>
 int main(){
    int n,pro =1,rev =0,first =1;
@@ -42,3 +42,4 @@ printf("%d",pro);
     return 0;
 
 }
+
