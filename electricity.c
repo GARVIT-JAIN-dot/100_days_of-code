@@ -3,7 +3,7 @@
 //Next 100 units at ₹7/unit
 //Next 100 units at ₹10/unit
 //Above at ₹12/unit
-
+  
 #include<stdio.h>
 int main(){
     int units,bill;
@@ -33,3 +33,4 @@ int main(){
     return 0;
 
 }
+
