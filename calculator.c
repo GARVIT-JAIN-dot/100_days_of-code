@@ -1,3 +1,5 @@
+//program to display the month name and number of days using switch-case for a given month number.
+
 #include<stdio.h>
 int main(){
  int a,b;
@@ -33,4 +35,5 @@ int main(){
      default:printf("Invalid operation.");
      }
      return 0;
+
 }
