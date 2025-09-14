@@ -1,4 +1,3 @@
-
 // program to find profit or loss percentage given cost price and selling price.
 
 #include<stdio.h>
@@ -15,4 +14,5 @@ int main(){
         printf("No Loss No Profit.\n");
     }
     return 0;
+
 }
