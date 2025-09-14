@@ -1,5 +1,5 @@
 //program to print all factors of a given number.
-
+  
 #include<stdio.h>
 int main () {
     int n,a =1;
@@ -24,3 +24,4 @@ int main () {
     return 0;
 
 }
+
