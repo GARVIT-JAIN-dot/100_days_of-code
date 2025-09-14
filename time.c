@@ -1,5 +1,5 @@
 // program to input time in seconds and convert it to hours:minutes:seconds format.
-
+  
 #include <stdio.h>
 int main (){
     int s;
@@ -12,4 +12,5 @@ int main (){
     printf("The time is %.2d hours, %.2d minutes and %.2d seconds\n",h,m,sec);
     printf("The time in 24 hour format is %.2d:%.2d:%.2d\n",h,m,sec);
     return 0;
+
 }
