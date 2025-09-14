@@ -1,4 +1,4 @@
-//program to display the month name and number of days using switch-case for a given month number.
+//program to implement a basic calculator using switch-case for +, -, *, /, %.
 
 #include<stdio.h>
 int main(){
@@ -37,3 +37,4 @@ int main(){
      return 0;
 
 }
+
