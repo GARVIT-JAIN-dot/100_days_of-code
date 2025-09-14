@@ -1,6 +1,6 @@
 //program to input a character and check whether it is an uppercase alphabet, lowercase alphabet, digit, or special character.
 //but it take only single character.
-
+  
 #include<stdio.h>
 int main(){
     char check;
@@ -18,5 +18,6 @@ int main(){
      }
       
     return 0;
+
 
 }
