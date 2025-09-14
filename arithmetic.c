@@ -1,5 +1,5 @@
 //  program to input two numbers and display their sum, difference, product, and quotient.(only integer number)
-
+  
 #include <stdio.h>
 int main() {
     int a,b,c;
