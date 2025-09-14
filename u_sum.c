@@ -1,5 +1,5 @@
 //program to find the sum of digits of a number.
-
+ 
 #include<stdio.h>
 int main (){
     int n;
@@ -20,3 +20,4 @@ int main (){
     return 0;    
 
 }
+
