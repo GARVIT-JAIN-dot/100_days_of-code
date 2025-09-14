@@ -3,7 +3,6 @@
 #include<stdio.h>
 int main(){
     int n,pro = 1,first =1;
-
     printf("Enter number:");
     scanf("%d",&n);
     
@@ -28,3 +27,4 @@ int main(){
     return 0;
 
 }
+
