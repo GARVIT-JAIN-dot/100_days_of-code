@@ -1,5 +1,5 @@
 // program to display the day of the week based on a number (1–7) using switch-case.
-
+  
 #include<stdio.h>
 int main(){
     int day;
@@ -32,4 +32,5 @@ int main(){
         printf("Invalid day\n");
     }
     return 0;
+
 }
