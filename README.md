@@ -1,6 +1,6 @@
 # 100_days_of-code
 100_days_of_code_ challenge    
-<br>Branch:question_1_to_10--------  <br>
+<br>Branch:question_1_to_10 -------->  <br>
 <br>1:program to input two numbers and display their sum.                                                                                 (sum.c)   
 2:program to input two numbers and display their sum, difference, product, and quotient.                                                  (arithmetic.c)   
 3:program to calculate the area and perimeter of a rectangle given its length and breadth.                                                (rectangle.c)    
@@ -11,7 +11,7 @@
 <br>8:program to find and display the sum of the first n natural numbers.                                                                 (summation.c)   
 9:program to calculate simple and compound interest for given principal, rate, and time.                                                  (interest.c) 
 <br>10: program to input time in seconds and convert it to hours:minutes:seconds format.                                                  (time.c)   
-<br> Branch:question_11_to_20--------<br>
+<br> Branch:question_11_to_20 --------> <br>
 <br>11:program to input an integer and check whether it is even or odd using if–else.                                                     (odd_even.c)   
 12:program to input an integer and check whether it is positive, negative or zero using nested if–else.                                   (sign.c)  
 13:program to input a year and check whether it is a leap year or not using conditional statements.                                       (leap_year.c)
@@ -22,7 +22,7 @@
 <br>18:program to assign grades based on a percentage input.                                                                              (grade.c)
 <br>19: program to classify a triangle as Equilateral, Isosceles, or Scalene based on its side lengths.                                   (triangle.c)
 <br>20:program to display the day of the week based on a number (1–7) using switch-case.                                                  (week.c) <br>
-<br>Branch:question_21_to_30--------  <br>
+<br>Branch:question_21_to_30 -------->  <br>
 <br>21:program to display the month name and number of days using switch-case for a given month number.                                   (month.c)  
 22:program to find profit or loss percentage given cost price and selling price.                                                          (sales.c)  
 23: program to calculate library fine based on late days as follows:                                                                      (library.c)
@@ -40,9 +40,9 @@
 <br>27:program to print the sum of the first n odd numbers.                                                                                (n_odd.c) 
 <br>28:program to print the product of even numbers from 1 to n.                                                                           (n_even.c)  
 29:program to calculate the factorial of a number.                                                                                         (factorial.c) 
-<br>30:program to reverse a given number.                                                                                                  (reverse.c)  <br>
-<br>Branch:question_31_to_40--------  <br>                                                                                                                     
-<br>31:program to take a number as input and print its equivalent binary representation.                                                   (binary.c)
+<br>30:program to reverse a given number.                                                                                                  (reverse.c)  
+<br>Branch:question_31_to_40 -------->  <br>                                                                                                                     
+31:program to take a number as input and print its equivalent binary representation.                                                       (binary.c)
 <br>32:program to check if a number is a palindrome.                                                                                       (palindrome.c)
 <br>33: program to check if a number is an Armstrong number.                                                                               (armstrong.c)
 <br>34:program to check if a number is prime.                                                                                              (primary.c)
@@ -51,4 +51,42 @@
 <br>37:program to find the LCM of two numbers.                                                                                             (lcm.c)
 <br>38:program to find the sum of digits of a number.                                                                                      (u_sum.c)
 <br>39:program to find the product of odd digits of a number.                                                                              (odd_pro.c)
-<br>40:program to find the 1’s complement of a binary number and print it.                                                                 (co_binary.c)
+<br>40:program to find the 1’s complement of a binary number and print it.                                                                 (co_binary.c) <br>
+<br>Branch:question_41_to_50 ----------> <br>
+<br>41:program to swap the first and last digit of a number.                                                                               (FL_swap.c)
+<br>42:program to check if a number is a perfect number.                                                                                   (perfect.c)
+<br>43:program to check if a number is a strong number.                                                                                    (strong.c)
+<br>44:program to find the sum of the series: 1 + 3/4 + 5/6 + 7/8 + … up to n terms.                                                       (series1.c)
+<br>45: program to find the sum of the series: 2/3 + 4/7 + 6/11 + 8/15 + ... up to n terms.                                                (series2.c)
+<br>46:program to print the following pattern:                                                                                             (pattern1.c)
+<br>*****
+<br>*****
+<br>*****
+<br>*****
+<br>*****
+<br>47:program to print the following pattern:                                                                                             (pattern2.c)
+<br>*
+<br>**
+<br>***
+<br>****
+<br>*****
+<br>48:program to print the following pattern:                                                                                             (pattern3.c)
+<br>1
+<br>12
+<br>123
+<br>1234
+<br>12345
+49:program to print the following pattern:                                                                                                  (pattern4.c)
+<br>5
+<br>45
+<br>345
+<br>2345
+<br>12345
+<br>50:program to print the following pattern:                                                                                              (pattern5.c)
+<br>*****
+<br>****
+<br>***
+<br>**
+<br>*
+
+
