@@ -134,8 +134,6 @@
 <br>......*
 <br>55:program to print all the prime numbers from 1 to n.                                                                              (prime_fa.c)
 <br>56:Read and print elements of a one-dimensional array.                                                                              (1d_array.c)
-<br>57:Find the sum of array elements.                                                                                                  (sum_array.c)
-<br>58:Find the maximum and minimum element in an array.                                                                                (mi_ma_array.c)
 
 
 
