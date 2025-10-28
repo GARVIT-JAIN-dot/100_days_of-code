@@ -64,13 +64,13 @@
 <br>*****
 <br>*****
 <br>*****
-<br>47:program to print the following pattern:                                                                                             (pattern2.c)
+<br>47:program to print the following pattern:                                                                                              (pattern2.c)
 <br>*
 <br>**
 <br>***
 <br>****
 <br>*****
-<br>48:program to print the following pattern:                                                                                             (pattern3.c)
+<br>48:program to print the following pattern:                                                                                              (pattern3.c)
 <br>1
 <br>12
 <br>123
@@ -89,13 +89,13 @@
 <br>**
 <br>*
 <br><br>Branch:question_51_to_60 ----------> <br>
-<br>51:program to print the following pattern:                                                                                         (pattern6.c) 
+<br>51:program to print the following pattern:                                                                                              (pattern6.c) 
 <br>....`````5
 <br>....```45
 <br>...``345
 <br>..`2345
 <br>.12345
-<br>52: program to print the following pattern:                                                                                        (pattern7.c)
+<br>52: program to print the following pattern:                                                                                             (pattern7.c)
 <br>
 <br>*
 <br>
@@ -114,7 +114,7 @@
 <br>*
 <br>
 <br>*
-<br>53:program to print the following pattern:                                                                                         (pattern8.c)
+<br>53:program to print the following pattern:                                                                                               (pattern8.c)
 <br>*
 <br>***
 <br>*****
@@ -124,7 +124,7 @@
 <br>*****
 <br>***
 <br>*
-<br>54:program to print the following pattern:                                                                                          (pattern9.c)
+<br>54:program to print the following pattern:                                                                                              (pattern9.c)
 <br><br>......*
 <br>....***
 <br>..*****
@@ -132,12 +132,23 @@
 <br>..*****
 <br>....***
 <br>......*
-<br>55:program to print all the prime numbers from 1 to n.                                                                              (prime_fa.c)
-<br>56:Read and print elements of a one-dimensional array.                                                                              (1d_array.c)
-<br>57:Find the sum of array elements.                                                                                                  (sum_array.c)                                          
-58:Find the maximum and minimum element in an array.                                                                                    (comp_array.c)
-<br>59:Count even and odd numbers in an array.                                                                                          (eo_array.c)
-<br>60:Count positive, negative, and zero elements in an array.                                                                         (sign_array.c)
+<br>55:program to print all the prime numbers from 1 to n.                                                                                 (prime_fa.c)
+<br>56:Read and print elements of a one-dimensional array.                                                                                 (1d_array.c)
+<br>57:Find the sum of array elements.                                                                                                     (sum_array.c)                                          
+58:Find the maximum and minimum element in an array.                                                                                       (comp_array.c)
+<br>59:Count even and odd numbers in an array.                                                                                             (eo_array.c)
+<br>60:Count positive, negative, and zero elements in an array.                                                                            (sign_array.c)
+<br><br>Branch:question_61_to_70 ----------> <br>
+<br>61:Search for an element in an array using linear search.                                                                              (index_array.c)
+<br>62:Reverse an array without taking extra space.                                                                                        (reverse_array.c)
+<br>63:Merge two arrays.                                                                                                                   (merge_array.c)
+<br>64:Find the digit that occurs the most times in an integer number.                                                                     (tdigits_array.c)
+<br>65:Search in a sorted array using binary search.                                                                                       (binary_array.c)
+<br>66:Insert an element in a sorted array at the appropriate position.                                                                    (insert_array.c)   
+67:Insert an element in an array at a given position.                                                                                  (position_array.c)
+<br>68:Delete an element from an array.                                                                                                    (delete_array.c)
+<br>69:Find the second largest element in an array.                                                                                        (seclargest_array.c)
+<br>70:Rotate an array to the right by k positions.                                                                                        (rotate_array.c)
 
 
 
