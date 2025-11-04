@@ -1,6 +1,6 @@
 # 100_days_of-code
 100_days_of_code_ challenge          
-<br>61:Search for an element in an array using linear search.                                                                              (index_array.c)
+61:Search for an element in an array using linear search.                                                                              (index_array.c)
 <br>62:Reverse an array without taking extra space.                                                                                        (reverse_array.c)
 <br>63:Merge two arrays.                                                                                                                   (merge_array.c)
 <br>64:Find the digit that occurs the most times in an integer number.                                                                     (tdigits_array.c)
