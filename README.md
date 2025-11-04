@@ -1,6 +1,5 @@
 # 100_days_of-code
 100_days_of_code_ challenge    
-<br>Branch:question_41_to_50 ----------> <br>
 <br>41:program to swap the first and last digit of a number.                                                                               (FL_swap.c)
 <br>42:program to check if a number is a perfect number.                                                                                   (perfect.c)
 <br>43:program to check if a number is a strong number.                                                                                    (strong.c)
