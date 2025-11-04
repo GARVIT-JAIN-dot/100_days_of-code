@@ -1,7 +1,6 @@
 # 100_days_of-code
 100_days_of_code_ challenge    
-<br>Branch:question_51_to_60 ----------> <br>
-<br>51:program to print the following pattern:                                                                                         (pattern6.c) 
+51:program to print the following pattern:                                                                                         (pattern6.c) 
 <br>....`````5
 <br>....```45
 <br>...``345
