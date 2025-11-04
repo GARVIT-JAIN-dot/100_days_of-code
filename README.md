@@ -1,6 +1,6 @@
 # 100_days_of-code
 100_days_of_code_ challenge                                                                                                                       
-<br>71.Read and print a matrix.                                                                                                            (2d_array.c)
+71.Read and print a matrix.                                                                                                            (2d_array.c)
 <br>72.Find the sum of all elements in a matrix.                                                                                           (esum_array.c)
 <br>73.Find the sum of each row of a matrix and store it in an array.                                                                      (rowsum_array.c)
 <br>74.Find the transpose of a matrix.                                                                                                     (transpose_array.c)
