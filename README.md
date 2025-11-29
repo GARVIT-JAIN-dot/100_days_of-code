@@ -1,17 +1,12 @@
 # 100_days_of-code
 100_days_of_code_ challenge                                                                                                                       
-<br>111.Write a program to take an integer array arr and an integer k as inputs. The task is to find the first negative integer in each subarray of size k moving from left to right. If no negative exists in a window, print "0" for that window. Print the results separated by spaces as output.(negative_subarray.c)<br>
-
-<br>112.Write a program to take an integer array arr as input. The task is to find the maximum sum of any contiguous subarray using Kadane's algorithm. Print the maximum sum as output. If all elements are negative, print the largest (least negative) element.(kadanes_subarray.c)<br>
-
-<br>113.Write a program to take an integer array arr and an integer k as inputs. The task is to find the kth smallest element in the array. Print the kth smallest element as output.(nsmallest_array.c)
-<br>114.Write a program to take a string s as input. The task is to find the length of the longest substring without repeating characters. Print the length as output.(longest_substring.c)
-<br>115.Write a program to take two strings s and t as inputs (assume all characters are lowercase). The task is to determine if s and t are valid anagrams, meaning they contain the same characters with the same frequencies. Print "Anagram" if they are, otherwise "Not Anagram".(lowercase_anagrams)<br>
-
-<br>116.Write a program to take an integer array nums which contains only positive integers, and an integer target as inputs. The goal is to find two distinct indices i and j in the array such that nums[i] + nums[j] equals the target. Assume exactly one solution exists and return the indices in any order. Print the two indices separated by a space as output. If no solution exists, print "-1 -1".
-(distinct_indices)<br>
-
-<br>117.Write a program to take two sorted arrays of size m and n as input. Merge both the arrays such that the merged array is also sorted. Print the merged array.(msorted_array.c)
-<br>118.Write a program to take an input array of size n. The array should contain all the integers between 0 to n except for one. Print that missing number(missing_number.c)
-<br>119.Write a program to take an integer array as input. Only one element will be repeated. Print the repeated element. Try to find the result in one single iteration.(repeat_element.c)
-<br>120.Write a program to take a string input. Change it to sentence case.(sentence_case.c)
+<br>141.Define a structure Student with name, roll_no, and marks, then read and print one student's data.(student_struct.c)
+<br>142.Store details of 5 students in an array of structures and print all.(multiple_struct.c)
+<br>143.Find and print the student with the highest marks.(highest_struct.c)
+<br>144.Write a function that accepts a structure as parameter and prints its members.(parameter_struct.c)
+<br>145.Return a structure containing top student's details from a function.(topper_struct.c)
+<br>146.Create Employee structure with nested Date structure for joining date and print details.(employee_struct.c)
+<br>147.Store employee data in a binary file using fwrite() and read using fread().(rb_struct.c)
+<br>148.Take two structs as input and check if they are identical.(identical_struct.c)
+<br>149.Use malloc() to allocate structure memory dynamically and print details.(dynamic_struct.c)
+<br>150.Use pointer to struct to modify and display data using -> operator.(modify_struct.c)
