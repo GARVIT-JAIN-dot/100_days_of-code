@@ -10,3 +10,4 @@
 <br>148.Take two structs as input and check if they are identical.(identical_struct.c)
 <br>149.Use malloc() to allocate structure memory dynamically and print details.(dynamic_struct.c)
 <br>150.Use pointer to struct to modify and display data using -> operator.(modify_struct.c)
+<br><br>------------------------------END OF 100 DAYS OF CODE CHALLENGE-------------------------------<br>
