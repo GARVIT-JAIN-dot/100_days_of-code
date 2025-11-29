@@ -219,7 +219,7 @@ N.B:<br>
 <br>118.Write a program to take an input array of size n. The array should contain all the integers between 0 to n except for one. Print that missing number(missing_number.c)
 <br>119.Write a program to take an integer array as input. Only one element will be repeated. Print the repeated element. Try to find the result in one single iteration.(repeat_element.c)
 <br>120.Write a program to take a string input. Change it to sentence case.(sentence_case.c)
-<br><br>Branch:question_111_to_120 -------->   <br> 
+<br><br>Branch:question_121_to_130 -------->   <br> 
 <br>121.Write a C program that creates a text file named info.txt in write mode. The program should take the user’s name and age as input, and write them to the file using fprintf(). After writing, display a message confirming that the data was successfully saved.(message_file.c)
 <br>122.Write a C program that opens an existing file (e.g., info.txt) and reads its contents using fgets(). The program should print all the lines to the console until EOF (end of file) is reached.(info_file.c)
 <br>123.Read a text file and count the total number of characters, words, and lines. A word is defined as a sequence of non-space characters separated by spaces or newlines.(count_file.c)
@@ -230,7 +230,7 @@ N.B:<br>
 <br>128.Read a text file and count how many vowels and consonants are in the file. Ignore digits and special characters.(alphabet_file.c)
 <br>129.A file numbers.txt contains a list of integers separated by spaces. Read all integers, compute their sum and average, and print both.(add_file.c)
 <br>130.Store multiple student records (name, roll number, marks) into a file using fprintf(). Then read them using fscanf() and display each record.(record_file.c)
-<br><br>Branch:question_111_to_120 -------->   <br> 
+<br><br>Branch:question_131_to_140 -------->   <br> 
 <br>131.Create an enumeration for days (SUNDAY to SATURDAY) and print each day with its integer value.(week_enum.c)
 <br>132.Define an enum for traffic lights (RED, YELLOW, GREEN) and print 'Stop', 'Wait', or 'Go' based on its value.(traffic_enum.c)
 <br>133.Create an enum for months and print how many days each month has.(month_enum.c)
@@ -241,7 +241,7 @@ N.B:<br>
 <br>138.Print all enum names and integer values using a loop.(integer_enum.c)
 <br>139.Show that enums store integers by printing assigned values.(assigned_enum.c)
 <br>140.Define a struct with enum Gender and print person's gender.(gender_enum.c)
-<br><br>Branch:question_111_to_120 -------->   <br> 
+<br><br>Branch:question_141_to_150 -------->   <br> 
 <br>141.Define a structure Student with name, roll_no, and marks, then read and print one student's data.(student_struct.c)
 <br>142.Store details of 5 students in an array of structures and print all.(multiple_struct.c)
 <br>143.Find and print the student with the highest marks.(highest_struct.c)
