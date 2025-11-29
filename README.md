@@ -1,17 +1,13 @@
 # 100_days_of-code
 100_days_of_code_ challenge                                                                                                                       
-<br>111.Write a program to take an integer array arr and an integer k as inputs. The task is to find the first negative integer in each subarray of size k moving from left to right. If no negative exists in a window, print "0" for that window. Print the results separated by spaces as output.(negative_subarray.c)<br>
+<br>121.Write a C program that creates a text file named info.txt in write mode. The program should take the user’s name and age as input, and write them to the file using fprintf(). After writing, display a message confirming that the data was successfully saved.(message_file.c)
+<br>122.Write a C program that opens an existing file (e.g., info.txt) and reads its contents using fgets(). The program should print all the lines to the console until EOF (end of file) is reached.(info_file.c)
+<br>123.Read a text file and count the total number of characters, words, and lines. A word is defined as a sequence of non-space characters separated by spaces or newlines.(count_file.c)
+<br>124.Take two filenames from the user – a source file and a destination file. Copy all the content from the source file to the destination file using fgetc() and fputc().(copy_file.c)
+<br>125.Open an existing file in append mode and allow the user to enter a new line of text. Append the text at the end without overwriting existing content.(append_file.c)
+<br>126.Ask the user for a filename. Check if it exists by trying to open it in read mode. If the file pointer is NULL, print an error message; otherwise, read and display its content.(search_file.c)
+<br>127.Write a program that reads text from input.txt, converts all lowercase letters to uppercase, and writes the result to output.txt.(uppercase_file.c)
+<br>128.Read a text file and count how many vowels and consonants are in the file. Ignore digits and special characters.(alphabet_file.c)
+<br>129.A file numbers.txt contains a list of integers separated by spaces. Read all integers, compute their sum and average, and print both.(add_file.c)
+<br>130.Store multiple student records (name, roll number, marks) into a file using fprintf(). Then read them using fscanf() and display each record.(record_file.c)
 
-<br>112.Write a program to take an integer array arr as input. The task is to find the maximum sum of any contiguous subarray using Kadane's algorithm. Print the maximum sum as output. If all elements are negative, print the largest (least negative) element.(kadanes_subarray.c)<br>
-
-<br>113.Write a program to take an integer array arr and an integer k as inputs. The task is to find the kth smallest element in the array. Print the kth smallest element as output.(nsmallest_array.c)
-<br>114.Write a program to take a string s as input. The task is to find the length of the longest substring without repeating characters. Print the length as output.(longest_substring.c)
-<br>115.Write a program to take two strings s and t as inputs (assume all characters are lowercase). The task is to determine if s and t are valid anagrams, meaning they contain the same characters with the same frequencies. Print "Anagram" if they are, otherwise "Not Anagram".(lowercase_anagrams)<br>
-
-<br>116.Write a program to take an integer array nums which contains only positive integers, and an integer target as inputs. The goal is to find two distinct indices i and j in the array such that nums[i] + nums[j] equals the target. Assume exactly one solution exists and return the indices in any order. Print the two indices separated by a space as output. If no solution exists, print "-1 -1".
-(distinct_indices)<br>
-
-<br>117.Write a program to take two sorted arrays of size m and n as input. Merge both the arrays such that the merged array is also sorted. Print the merged array.(msorted_array.c)
-<br>118.Write a program to take an input array of size n. The array should contain all the integers between 0 to n except for one. Print that missing number(missing_number.c)
-<br>119.Write a program to take an integer array as input. Only one element will be repeated. Print the repeated element. Try to find the result in one single iteration.(repeat_element.c)
-<br>120.Write a program to take a string input. Change it to sentence case.(sentence_case.c)
