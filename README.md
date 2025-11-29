@@ -219,4 +219,40 @@ N.B:<br>
 <br>118.Write a program to take an input array of size n. The array should contain all the integers between 0 to n except for one. Print that missing number(missing_number.c)
 <br>119.Write a program to take an integer array as input. Only one element will be repeated. Print the repeated element. Try to find the result in one single iteration.(repeat_element.c)
 <br>120.Write a program to take a string input. Change it to sentence case.(sentence_case.c)
+<br><br>Branch:question_111_to_120 -------->   <br> 
+<br>121.Write a C program that creates a text file named info.txt in write mode. The program should take the user’s name and age as input, and write them to the file using fprintf(). After writing, display a message confirming that the data was successfully saved.(message_file.c)
+<br>122.Write a C program that opens an existing file (e.g., info.txt) and reads its contents using fgets(). The program should print all the lines to the console until EOF (end of file) is reached.(info_file.c)
+<br>123.Read a text file and count the total number of characters, words, and lines. A word is defined as a sequence of non-space characters separated by spaces or newlines.(count_file.c)
+<br>124.Take two filenames from the user – a source file and a destination file. Copy all the content from the source file to the destination file using fgetc() and fputc().(copy_file.c)
+<br>125.Open an existing file in append mode and allow the user to enter a new line of text. Append the text at the end without overwriting existing content.(append_file.c)
+<br>126.Ask the user for a filename. Check if it exists by trying to open it in read mode. If the file pointer is NULL, print an error message; otherwise, read and display its content.(search_file.c)
+<br>127.Write a program that reads text from input.txt, converts all lowercase letters to uppercase, and writes the result to output.txt.(uppercase_file.c)
+<br>128.Read a text file and count how many vowels and consonants are in the file. Ignore digits and special characters.(alphabet_file.c)
+<br>129.A file numbers.txt contains a list of integers separated by spaces. Read all integers, compute their sum and average, and print both.(add_file.c)
+<br>130.Store multiple student records (name, roll number, marks) into a file using fprintf(). Then read them using fscanf() and display each record.(record_file.c)
+<br><br>Branch:question_111_to_120 -------->   <br> 
+<br>131.Create an enumeration for days (SUNDAY to SATURDAY) and print each day with its integer value.(week_enum.c)
+<br>132.Define an enum for traffic lights (RED, YELLOW, GREEN) and print 'Stop', 'Wait', or 'Go' based on its value.(traffic_enum.c)
+<br>133.Create an enum for months and print how many days each month has.(month_enum.c)
+<br>134.Define an enum with SUCCESS, FAILURE, and TIMEOUT, and print messages accordingly.(message_enum.c)
+<br>135.Assign explicit values starting from 10 and print them.(explicit_enum.c)
+<br>136.Use enum to represent menu choices (ADD, SUBTRACT, MULTIPLY) and perform operations using switch.(arithmetic_enum.c)
+<br>137.Create an enum for user roles (ADMIN, USER, GUEST) and display messages based on role.(users_enum.c)
+<br>138.Print all enum names and integer values using a loop.(integer_enum.c)
+<br>139.Show that enums store integers by printing assigned values.(assigned_enum.c)
+<br>140.Define a struct with enum Gender and print person's gender.(gender_enum.c)
+<br><br>Branch:question_111_to_120 -------->   <br> 
+<br>141.Define a structure Student with name, roll_no, and marks, then read and print one student's data.(student_struct.c)
+<br>142.Store details of 5 students in an array of structures and print all.(multiple_struct.c)
+<br>143.Find and print the student with the highest marks.(highest_struct.c)
+<br>144.Write a function that accepts a structure as parameter and prints its members.(parameter_struct.c)
+<br>145.Return a structure containing top student's details from a function.(topper_struct.c)
+<br>146.Create Employee structure with nested Date structure for joining date and print details.(employee_struct.c)
+<br>147.Store employee data in a binary file using fwrite() and read using fread().(rb_struct.c)
+<br>148.Take two structs as input and check if they are identical.(identical_struct.c)
+<br>149.Use malloc() to allocate structure memory dynamically and print details.(dynamic_struct.c)
+<br>150.Use pointer to struct to modify and display data using -> operator.(modify_struct.c)
+<br><br>----------------------------END OF 100 DAYS OF CODE CHANLLENGE------------------------<br>
+
+
 
